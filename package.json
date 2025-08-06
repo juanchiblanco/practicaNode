@@ -13,5 +13,8 @@
     "commonjs"
   ],
   "author": "Juan Manuel Blanco",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
