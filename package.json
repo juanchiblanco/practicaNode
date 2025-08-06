@@ -1,0 +1,17 @@
+{
+  "name": "practicanode",
+  "version": "1.0.0",
+  "description": "practico de los primeros pasos con nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "commonjs",
+  "keywords": [
+    "nodejs",
+    "esmodules",
+    "commonjs"
+  ],
+  "author": "Juan Manuel Blanco",
+  "license": "MIT"
+}
